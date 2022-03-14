@@ -1,0 +1,22 @@
+Fish Weights (For Baits)
+
+Large:
+
+Dolphin - 23 - 79KG
+GW Shark - 520 - 1100KG
+Turtle - 40 - 180KG
+Killer Whale - 3000 – 4000KG
+
+Medium:
+
+Whitefish - 10KG
+Trout - 12KG
+
+Small:
+
+Pike - 0.5 - 1.4KG
+Lobster - 0.8 - 1KG
+Salmon 3.5 - 5.5KG
+Roach - 2KG
+Goldfish - 3KG
+Crawfish - 3.5KG

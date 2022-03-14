@@ -1,0 +1,33 @@
+Fishing:
+
+16m 30s - Research and configuration for fish weights, for different types of baits.
+1h 20m - Creating, configuring and setting up Lua classes.
+41m - Fishing rod creation and placement configuration.
+1h 47m - Boat rental coding, testing and optimization
+12m - Return rental marker configuration
+5m - Rental blips & multi location support.
+35m - Algorithm Programming
+32m 44s - Zones setup and logic
+2h 2m - Item uses, quantity checks (callbacks), and entire fishing core logic
+1h 35m - Fish black market selling (includes synced NPC ped, animations with ped and yourself upon deal completion, dist checks for the deals)
+42m - Fish sales (menu, markers, client and server logic, configuration files)
+2m - Progress bar (waiting for fish to bite)
+5m - Make using the bait start fishing, however you still require a fishing rod in your inventory
+20m - Fishing logic (medium), creating fish meat items
+10m - Small fish (land fishing) logic
+10m - If you use small fish bait in a deep fishing location, you will only receive a land fishing fish. 
+12m - Zone fishing logic, added logic so you can't catch a rare zone fish if you're using medium or small bait in a rare zone, you'll only catch either a medium or small fish.
+56m - Heavy fish tug boat attachment logic and configuration
+1h 10m - Fish spawning logic, behaviour and swimming controller, testing and debugging.
+40m - Fish max logic and recode of server fish determining code to make it more optimized, faster and cleaner.
+1h 55m - Rare fish (dolphin, shark, whale) mini game design, logic, syncing and fish attachments onto the boat when you catch it with your crew.
+10m - Rotated fish on back of tug to be on stomach, not on it's side.
+2m - Fish on boat is still created if you don't have enough crew men, so had to implement a check much earlier on in the minigame.
+
+6h 51m 12s - $170/£127 | 14/11/2021
+9h 50m  - (Rounded up) $231/£172 | 15/11/2021 | 17:15PM - starting at £22 & £15 an hour
+10h 07m 14s - $231/£172 | 15/11/2021 | 18:01PM - starting at £22 & £15 an hour
+14h 28m - (Rounded down) $310/£232 | 21/11/2021 | 19:19PM - starting at £22 & £15 an hour
+14h 40m - (Rounded up) $330/£247 | 27/11/2021 | 15:52PM - starting at £22 & £15 an hour
+
+TOTAL: $330/£247 | 14 hours & 40 minutes (rounded to 15 hours) of work | $30/£22 starting & $20/£15 an hour.
